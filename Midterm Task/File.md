@@ -5,6 +5,4 @@ This task is.....
 - Step Two
 - Step Three
 # Sample output:
-![screenshot]Midterm Task/image/Screenshot.png)
-# Insert Image using img tag
-<img src="Midterm Task/image/Screenshot.png" alt="Alt Text" width="400" height="300">
+![screenshot] (Midterm Task/image/Screenshot.png)
