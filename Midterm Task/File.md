@@ -5,4 +5,4 @@ This task is.....
 - Step Two
 - Step Three
 # Sample output:
-![screenshot] (Midterm%20Task/image/Screenshot.png)
+![screenshot](MidtermTask/image/Screenshot.png)
