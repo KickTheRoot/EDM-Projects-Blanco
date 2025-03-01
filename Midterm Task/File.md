@@ -6,3 +6,4 @@ This task is.....
 - Step Three
 # Sample output:
 ![screenshot](Midterm%20Task/image/Screenshot.png)
+<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
