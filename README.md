@@ -1,5 +1,5 @@
 ### EDM-Projects-Blanco
-This is my Respository
+This is my Respository Projects
 ### About Me
 Hi my name is Lovell John P. Blanco just a chill guy
 ### Education
