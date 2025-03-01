@@ -14,4 +14,4 @@ Hi, my name is Lovell John P. Blanco. I'm just a chill guy with a passion for da
 - Description: This project involves cleaning and preparing a dataset for analysis. The dataset contains various inconsistencies and missing values, which were addressed through different data cleaning techniques.
 #### Tech Stack: Python, Pandas, NumPy
 #### Key Learnings: Data wrangling, handling missing values, data normalization
-- Link: [Data Cleaning and Preparation](Midterm%20TaskTask/Blanco,%20Clean%20up.xlsx)
+- Link: [Data Cleaning and Preparation](Midterm%20Task/Task/Blanco,%20Clean%20up.xlsx)
