@@ -1,10 +1,10 @@
-# Midterm Lab Task 1
+`  # Midterm Lab Task 1
 This task is.....
 # STEP 1. Data Cleaning Process
 - Step One
 - Step Two
 - Step Three
 # Sample output:
-![screenshot](MidtermTask/image/Screenshot(1).png)
+![screenshot]_(Midterm Task/image/Screenshot(1).png)
 # Insert Image using img tag
-<img src="MidtermTask/image/Screenshot(1).png" alt="Alt Text" width="400" height="300">
+<img src="Midterm Task/image/Screenshot(1).png" alt="Alt Text" width="400" height="300">
