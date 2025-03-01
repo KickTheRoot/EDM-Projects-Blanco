@@ -46,4 +46,4 @@ Replace unwanted values, such as 'inf', with desired values or blank cells.
 
 
 # Sample output:
-<img src="image/Screenshot.png" alt="Alt Text" width="400" height="300">
+<img src="image/Screenshot%20(1).png" alt="Alt Text" width="400" height="300">
