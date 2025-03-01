@@ -5,5 +5,5 @@ This task is.....
 - Step Two
 - Step Three
 # Sample output:
-![screenshot](Midterm%20Task/image/Screenshot.png)
-<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+![screenshot](image/Screenshot.png)
+<img src="image/Screenshot.png" alt="Alt Text" width="400" height="300">
