@@ -5,5 +5,4 @@ This task is.....
 - Step Two
 - Step Three
 # Sample output:
-![screenshot](image/Screenshot.png)
 <img src="image/Screenshot.png" alt="Alt Text" width="400" height="300">
