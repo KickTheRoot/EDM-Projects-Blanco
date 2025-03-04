@@ -1,4 +1,4 @@
-![screenshot](image/201310551.jpg) ### EDM-Projects-Blanco
+![screenshot](Midterm%20Taskimage/201310551.jpg) ### EDM-Projects-Blanco
 This is my Respository Projects
 ### About Me
 Hi, my name is Lovell John P. Blanco. I'm just a chill guy with a passion for data analysis and cleaning. I enjoy turning raw data into meaningful insights.
