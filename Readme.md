@@ -2,7 +2,7 @@
 This is my Respository Projects
 
 ### About Me
-
+<img src="Midterm%20Task/image/201310551.jpg" alt="Alt Text" width="400" height="300">
 Hi, my name is Lovell John P. Blanco. I'm just a chill guy with a passion for data analysis and cleaning. I enjoy turning raw data into meaningful insights.
 ### Education
 - #### College: City College of Angeles
