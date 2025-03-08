@@ -1,4 +1,4 @@
-{{let
+{{ let
     Source = Excel.Workbook(File.Contents("C:\Users\COMLAB\Downloads\Uncleaned_DS_jobs.xlsx"), null, true),
     Uncleaned_DS_jobs_Sheet = Source{[Item="Uncleaned_DS_jobs",Kind="Sheet"]}[Data],
     #"Promoted Headers" = Table.PromoteHeaders(Uncleaned_DS_jobs_Sheet, [PromoteAllScalars=true]),
@@ -38,4 +38,4 @@ else [Location]),
     #"Changed Type2" = Table.TransformColumnTypes(#"Split Column by Delimiter1",{{"Company Name.1", type text}, {"Company Name.2", type number}}),
     #"Renamed Columns1" = Table.RenameColumns(#"Changed Type2",{{"Company Name.2", "Rates"}})
 in
-    #"Renamed Columns1"}}
+    #"Renamed Columns1" }}
