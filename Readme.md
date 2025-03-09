@@ -18,4 +18,4 @@ Hi, my name is Lovell John P. Blanco. I'm just a chill guy with a passion for da
 - Link: [Data Cleaning and Preparation](Midterm%20Task/Task/Blanco,%20Clean%20up.xlsx)
 - Link: [Process of the Data Cleaning](Midterm%20Task/File.md)
 - Link: [Data Cleaning and Transformation using Power query](Midterm%20Task%202/image/Screenshot%20(5).png)
-  [File](Midterm%20Task%202/Task/NewsUncleaned_DS_jobs.csv)
+- [File](Midterm%20Task%202/Task/NewsUncleaned_DS_jobs.csv)
