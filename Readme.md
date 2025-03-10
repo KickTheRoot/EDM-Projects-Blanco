@@ -3,6 +3,8 @@ This is my Respository Projects
 
 ### About Me
 Hi, my name is Lovell John P. Blanco. I'm just a chill guy with a passion for data analysis and cleaning. I enjoy turning raw data into meaningful insights.
+<img src="image/2bbf3a52005319.5901123c114f4.gif" style="width:50%; height:auto;">
+
 ### Education
 - #### College: City College of Angeles
   Degree: Bachelor of Science in Information System
