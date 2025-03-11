@@ -35,7 +35,7 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 🔄 Data normalization techniques
 
 ### Resources:
-- 📋 Cleaned Dataset (Excel)
+- 📋 [Cleaned Dataset (Excel)](https://pages.github.com/).
 - 📖 Data Cleaning Process Documentation
 - 🖼️ Power Query Transformation Screenshot
 - 📂 Uncleaned Dataset (CSV)
