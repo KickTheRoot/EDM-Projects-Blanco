@@ -34,10 +34,10 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 🤔 Handling missing values
 - 🔄 Data normalization techniques
 
-### Resources:
+### Task:
 - 📋 [Cleaned Dataset (Excel)](https://pages.github.com/).
-- 📖 Data Cleaning Process Documentation
-- 🖼️ Power Query Transformation Screenshot
-- 📂 Uncleaned Dataset (CSV)
-
+- 📖 [Data Cleaning Process Documentation](Midterm%20Task/image/Screenshot%20(1).png)
+- 🖼️ [Power Query Transformation Screenshot](Midterm%20Task%202/image/Screenshot%20(5).png)
+- 📂 [Uncleaned Dataset (CSV)](Midterm%20Task/Task/Blanco,%20Clean%20up.xlsx)
+- 📊 [Dashboard](Midterm20Task%203/image/Screenshot%20(8).png)
   
