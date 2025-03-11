@@ -7,7 +7,7 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 
 ## Education 🎓
 ### College: City College of Angeles Bachelor of Science in Information Systems 
-*  Specialization in - Data Science and Analytics
+- Specialization in - Data Science and Analytics
 ###  High School: Sapang Bato National High School
 ###  Elementary: Sapang Bato Elementary School
 
