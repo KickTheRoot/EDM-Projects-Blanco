@@ -18,7 +18,8 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 📊 Data analysis and visualization using Excel and Python
 - 🟩 Proficient in Excel Power Query and data manipulation
 - 🔄 Understanding of data normalization processes
-   ![Alt text](image/gif/1324-c-code-language.gif)
+  
+<img src="image/gif/1324-c-code-language.gif" alt="About Me GIF" style="width:auto; height:20%;">
 
 ### Interests:
 - 🛠️ Exploring new data tools (like Jekyll for web development)
