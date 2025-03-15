@@ -43,5 +43,5 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 📖 [Data Cleaning Process Documentation](Midterm%20Task/image/Screenshot%20(1).png)
 - 🖼️ [Power Query Transformation Screenshot](Midterm%20Task%202/image/Screenshot%20(5).png)
 - 📂 [Uncleaned Dataset (CSV)](Midterm%20Task/Task/Blanco,%20Clean%20up.xlsx)
-- 📊 [Dashboard](Midterm%20Task%203/image/Screenshot%20(8).png)
+- 📊 [Dashboard](Midterm%20Task%203/image/Screenshot%20(12).png)
   
