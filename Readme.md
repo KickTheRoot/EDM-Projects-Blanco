@@ -44,5 +44,6 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 🖼️ [Power Query Transformation Screenshot](Midterm%20Task%202/image/Screenshot%20(5).png)
 - 📂 [Uncleaned Dataset (CSV)](Midterm%20Task/Task/Blanco,%20Clean%20up.xlsx)
 - 📊 [Dashboard](Midterm%20Task%203/image/Screenshot%20(12).png)
-  
+- 💾 [SQL](Task/SQL/Event%20Management.sql) 
+  🖥  [Relationship](Task/SQL/Screenshot%202025-04-05%20123204.jpg)
   
