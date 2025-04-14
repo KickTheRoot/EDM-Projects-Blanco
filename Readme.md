@@ -48,3 +48,4 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 ### Task Lastterm:
 - 💾 [SQL](Task/SQL/Event%20Management.sql) 🖥 [Relationship](Task/SQL/Screenshot%202025-04-05%20123204.jpg)
 - 🗂️ [Student assignment submission](Task/Student%20assignment%20submission/Dump20250414.sql) [(Words)](Task/Student%20assignment%20submission/Student%20assignment%20submission.docx)
+- 💽 [Table Manipulation](Task/Table%20Manipulation/Dump20250414%20(1).sql) [(Words)](Task/Table%20Manipulation/Products%20and%20Prices.docx)
