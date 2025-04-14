@@ -45,6 +45,6 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 📂 [Uncleaned Dataset (CSV)](Midterm%20Task/Task/Blanco,%20Clean%20up.xlsx)
 - 📊 [Dashboard](Midterm%20Task%203/image/Screenshot%20(12).png)
 
-  ### Task Lastterm:
+### Task Lastterm:
 - 💾 [SQL](Task/SQL/Event%20Management.sql) 🖥 [Relationship](Task/SQL/Screenshot%202025-04-05%20123204.jpg)
 - 🗂️ [Student assignment submission](Task/Student%20assignment%20submission/Dump20250414.sql)[(words)](Task/Student%20assignment%20submission/Student%20assignment%20submission.docx)
