@@ -1,5 +1,5 @@
 # Part 1
-<img src="Task/SELECT%20Statement/Picture1.png" height="200" width="200">
+<img src="Task/SELECT Statement" height="200" width="200">
 
 create database company_employee;
 use company_employee;
