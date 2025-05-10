@@ -50,3 +50,5 @@ Hi, I'm Lovell John P. Blanco 👋, a laid-back yet detail-oriented data enthusi
 - 🗂️ [Student assignment submission](Task/Student%20assignment%20submission/Dump20250414.sql) [(Words)](Task/Student%20assignment%20submission/Student%20assignment%20submission.docx)
 - 💽 [Table Manipulation](Task/Table%20Manipulation/Dump20250414%20(1).sql) [(Words)](Task/Table%20Manipulation/Products%20and%20Prices.docx)
 - 🖥️ SELECT statement [Part 1](Task/SELECT%20Statement/part%201.docx) [Part 2](Task/SELECT%20Statement/part%202.docx)
+- 🖨️ [TASK 5 stored Procedures Views and Function](Task/Final%20Task%205/Finals%20Task%205.%20SQL%20Views%20FN%20and%20SPdocx.docx)
+[]
